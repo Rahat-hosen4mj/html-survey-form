@@ -10,6 +10,7 @@ body{
 h1, p{
     margin: 1em auto;
     text-align: center;
+    color: violet;
 }
 form{
     width: 60vw;
@@ -42,6 +43,7 @@ input, textarea{
     border-radius: 5px;
 }
 .inline{
+    display: inline;
     width: unset;
     margin: 0 0.5em 0 0;
     vertical-align: middle;
